@@ -14,21 +14,20 @@ The project demonstrates the integration of embedded systems, robotics, computer
 
 🎯 Project Objectives
 
-Develop a four-wheel mobile robot using ESP32 and BO motors.
+1. To develop an intelligent pothole detection system using IoT sensors integrated with a mobile 
+robotic platform.
 
-Enable wireless manual robot control through Bluetooth.
+2. To evaluate pothole characteristics such as depth, size, and severity for effective road condition 
+assessment and repair cost estimation.
 
-Integrate GPS tracking using the NEO-6M GPS module.
+3. To enable GPS-based pothole localization and support effective maintenance prioritization 
+for improved road management.
 
-Stream live video using the ESP32-CAM module.
+4. To develop a centralized road condition monitoring system that supports real-time tracking 
+and informed maintenance decision-making.
 
-Detect potholes from the live video stream using YOLOv11.
-
-Estimate pothole dimensions using pixel-based measurements.
-
-Send real-time pothole detection notifications through Telegram.
-
-Demonstrate an affordable solution for mobile road inspection.
+5. To implement an intelligent AI-driven validation system for monitoring and evaluating 
+pothole repair quality. 
 
 🤖 Hardware Implementation
 
